@@ -1,0 +1,21 @@
+---
+galaxy_info:
+  author: G. Roggemans
+  description: A role for debugging ansible variables.
+  company: GROG
+  license: LGPLv3
+  min_ansible_version: 1.9
+  platforms:
+  - name: GenericUNIX
+    versions:
+    - all
+  - name: GenericBSD
+    versions:
+    - all
+  - name: GenericLinux
+    versions:
+    - all
+  categories:
+  - development
+  - system
+dependencies: []

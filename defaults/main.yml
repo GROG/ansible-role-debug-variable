@@ -1,0 +1,4 @@
+---
+
+# Location for dumping the variables
+debug_variable_dump_location: '/tmp/ansible.dump'
