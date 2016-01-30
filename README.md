@@ -35,14 +35,13 @@ None.
   - { role: GROG.debug-variable }
 ```
 
-## License
-
-LGPLv3
-
 ## Contributing
 
 All assistance, changes or ideas [welcome](https://github.com/GROG/ansible-role-debug-variable/issues)!
 
-## Author Information
+## Author
 
 By [G. Roggemans](https://github.com/groggemans)
+
+## License
+MIT
