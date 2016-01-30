@@ -1,6 +1,6 @@
 # Debug-variable
 
-[![Ansible Galaxy](http://img.shields.io/badge/galaxy-GROG.debug--variable-660198.svg?style=flat)](https://galaxy.ansible.com/list#/roles/4738)
+[![Ansible Galaxy](http://img.shields.io/badge/galaxy-GROG.debug--variable-660198.svg?style=flat)](https://galaxy.ansible.com/GROG/debug-variable)
 [![Build Status](https://travis-ci.org/GROG/ansible-role-debug-variable.svg?branch=master)](https://travis-ci.org/GROG/ansible-role-debug-variable)
 
 A role for debugging ansible variables.
