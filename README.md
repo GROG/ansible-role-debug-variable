@@ -2,6 +2,8 @@
 
 [![Ansible Galaxy][galaxy_image]][galaxy_link]
 [![Build Status][travis_image]][travis_link]
+[![Latest tag][tag_image]][tag_url]
+[![Gitter chat][gitter_image]][gitter_url]
 
 A role for debugging ansible variables.
 
@@ -44,10 +46,14 @@ By [G. Roggemans][groggemans]
 ## License
 MIT
 
-[galaxy_image]:         http://img.shields.io/badge/galaxy-GROG.debug--variable-660198.svg?style=flat
+[galaxy_image]:         https://img.shields.io/badge/galaxy-GROG.debug--variable-660198.svg?style=flat
 [galaxy_link]:          https://galaxy.ansible.com/GROG/debug-variable
 [travis_image]:         https://travis-ci.org/GROG/ansible-role-debug-variable.svg?branch=master
 [travis_link]:          https://travis-ci.org/GROG/ansible-role-debug-variable
+[tag_image]:            https://img.shields.io/github/tag/GROG/ansible-role-debug-variable.svg
+[tag_url]:              https://github.com/GROG/ansible-role-debug-variable/tags
+[gitter_image]:         https://badges.gitter.im/GROG/chat.svg
+[gitter_url]:           https://gitter.im/GROG/chat
 
 [lester_wade]:          https://coderwall.com/p/13lh6w
 
