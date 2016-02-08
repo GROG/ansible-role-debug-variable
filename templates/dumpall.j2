@@ -14,3 +14,9 @@ Group names variables ("group_names"):
 Groups variables ("groups"):
 --------------------------------
 {{ groups | to_nice_json }}
+
+HOST Variables ("hostvars[...]"):
+--------------------------------
+{% for host in groups['all'] %}
+  {{ hostvars[host] | to_nice_json }}
+{% endfor %}
